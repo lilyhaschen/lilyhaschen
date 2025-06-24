@@ -32,4 +32,4 @@
 ୨୧ Flip humans and thoughts like a proper cheerleader (Co-captain of sparkle destruction 🐰💥)  
 
 
-︵‿୨🖤୧‿︵ A priest once called me a bomb—I said I’m a *bunmb*: half bunny, half blessing, full disruption. Let’s hop into the strange, the secure, and the sparkly. This is my Lilypat. You’re welcome. 🐰✨︵‿୨🖤୧‿︵ 
+A priest once called me a bomb—I said I’m a *bunmb*: half bunny, half blessing, full disruption. Let’s hop into the strange, the secure, and the sparkly. This is my Lilypat. You’re welcome. 🐰✨
