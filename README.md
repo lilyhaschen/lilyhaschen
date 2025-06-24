@@ -1,4 +1,4 @@
-✩°̥࿐୨୧ ︵‿୨🖤୧‿︵ (｡•̀ᴗ-)✧🌸 Welcome to my Lilypat 🐇💻︵‿୨🖤୧‿︵ ✩°̥࿐୨୧ 
+ (｡•̀ᴗ-)✧🌸 Welcome to my Lilypat 🐇💻
 
 ⋆˚ఎ 🌼 ໒˚⋆ Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist.
 
