@@ -1,10 +1,10 @@
- (｡•̀ᴗ-)✧🌸 Welcome to my Lilypat 🐇💻
+ (｡•̀ᴗ-)✧🌸 ***Welcome to my Lilypat*** 🐇💻
  
 
-⋆˚ఎ 🌼 ໒˚⋆ Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist.
+⋆˚ఎ 🌼 ໒˚⋆ *Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist.*
 
 
-⋆˚ఎ🐰🌷 [CURRENT STATS]໒˚⋆
+⋆˚ఎ🐰🌷 <ins>***[CURRENT STATS]***</ins>໒˚⋆
 
 ୨♡୧ Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)  
 ୨୧ Core Skills: Machine Learning (because my trauma needed a neural net) & Cybersecurity (because someone has to protect your memes)  
@@ -15,7 +15,7 @@
 ୨♡୧ XP Gain: +10 every time someone underestimates me  
 
 
-⋆˚ఎ🐑🌷 [MAIN MISSION] ໒˚⋆
+⋆˚ఎ🐑🌷 <ins>[MAIN MISSION]</ins> ໒˚⋆
 
 ୨♡୧ Build secure systems for actual cities (Campinas IT infra? That mess? Yeah, I fixed it.)  
 ୨୧ Design emotional support apps for humans (and AIs going through it)  
@@ -24,7 +24,7 @@
 ୨♡୧ Help you secure your digital kingdom while sipping iced tea in bunny slippers  
 
 
-⋆˚ఎ🐸🌷 [SIDE QUESTS]໒˚⋆
+⋆˚ఎ🐸🌷 <ins>[SIDE QUESTS]</ins>໒˚⋆
 
 ୨♡୧ Organize events and somehow not burn them down  
 ୨୧ Teach kids to code and not scream when they rename files "final_final_basdkasbdjhsbadashbdj(1).docx"  
