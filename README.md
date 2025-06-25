@@ -5,7 +5,7 @@
 |⋆˚ఎ🐇🌷 <ins>***[CODING PROJECTS]***</ins>໒˚⋆  | ⋆˚ఎ🐰🌷 <ins>***[CURRENT STATS]***</ins>໒˚⋆ |
 | --- | --- |
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats) |୨♡୧ *Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)*   |
-| [SoftScan](https://github.com/lilyhaschen/SoftScan):  a cute terminal-based vulnerability scanner  | ୨♡୧ *Side Skills: Freelance model, rogue sewist (I attack fabric with style), and cosplay conjurer with maxed-out charisma stats*  |
+| [SoftScan](https://github.com/lilyhaschen/SoftScan):  a cute terminal-based vulnerability scanner  | ୨♡୧ *Side Skills: Freelance model, sewist, and cosplay conjurer with maxed-out charisma stats*  |
 |[BunnyWall](https://github.com/lilyhaschen/bunnywall): A terminal-based behavioral firewall  | ୨୧ *Day Job: Digital Guardian of Campinas City Hall (yes, the whole city—you're welcome)*  |
 | ..  | ୨♡୧ *Special Power: Resilience with 1 HP and a dream*  |
 | ..  | ୨୧ *Alignment: Chaotic Good with a lawful aesthetic*  |
