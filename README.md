@@ -1,7 +1,7 @@
  (｡•̀ᴗ-)✧🌸 ***Welcome to my Lilypat*** 🐇💻
  
 
-⋆˚ఎ 🌼 ໒˚⋆ *Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist.*
+⋆˚ఎ 🌼 ໒˚⋆ *Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist. Single-file project lover. *
 |⋆˚ఎ🐇🌷 <ins>***[CODING PROJECTS]***</ins>໒˚⋆  | ⋆˚ఎ🐰🌷 <ins>***[CURRENT STATS]***</ins>໒˚⋆ |
 | --- | --- |
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats) |୨♡୧ *Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)*   |
