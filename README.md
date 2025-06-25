@@ -4,13 +4,13 @@
 ⋆˚ఎ 🌼 ໒˚⋆ *Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist.*
 |⋆˚ఎ🐇🌷 <ins>***[CODING STATS]***</ins>໒˚⋆  | ⋆˚ఎ🐰🌷 <ins>***[CURRENT STATS]***</ins>໒˚⋆ |
 | --- | --- |
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats) |୨♡୧ *Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)*  
-୨୧ *Core Skills: Machine Learning (because my trauma needed a neural net) & Cybersecurity (because someone has to protect your memes)*  
-୨♡୧ *Side Skills: Freelance model, rogue sewist (I attack fabric with style), and cosplay conjurer with maxed-out charisma stats*  
-୨୧ *Day Job: Digital Guardian of Campinas City Hall (yes, the whole city—you're welcome)*  
-୨♡୧ *Special Power: Resilience with 1 HP and a dream*  
-୨୧ *Alignment: Chaotic Good with a lawful aesthetic*  
-୨♡୧ *XP Gain: +10 every time someone underestimates me*  |
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats) |୨♡୧ *Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)*   |
+| ..  | ୨୧ *Core Skills: Machine Learning (because my trauma needed a neural net) & Cybersecurity (because someone has to protect your memes)*   |
+| ..  | ୨♡୧ *Side Skills: Freelance model, rogue sewist (I attack fabric with style), and cosplay conjurer with maxed-out charisma stats*  |
+| ..  | ୨୧ *Day Job: Digital Guardian of Campinas City Hall (yes, the whole city—you're welcome)*  |
+| ..  | ୨♡୧ *Special Power: Resilience with 1 HP and a dream*  |
+| ..  | ୨୧ *Alignment: Chaotic Good with a lawful aesthetic*  |
+| ..  | ୨♡୧ *XP Gain: +10 every time someone underestimates me*  |
 
 
 ⋆˚ఎ🐑🌷 <ins>***[MAIN MISSION]***</ins> ໒˚⋆
