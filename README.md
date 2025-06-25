@@ -2,11 +2,9 @@
  
 
 ⋆˚ఎ 🌼 ໒˚⋆ *Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist.*
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats)
-
-
-⋆˚ఎ🐰🌷 <ins>***[CURRENT STATS]***</ins>໒˚⋆
+| Command | Description |
+| --- | --- |
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats) |⋆˚ఎ🐰🌷 <ins>***[CURRENT STATS]***</ins>໒˚⋆
 
 ୨♡୧ *Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)*  
 ୨୧ *Core Skills: Machine Learning (because my trauma needed a neural net) & Cybersecurity (because someone has to protect your memes)*  
@@ -14,7 +12,7 @@
 ୨୧ *Day Job: Digital Guardian of Campinas City Hall (yes, the whole city—you're welcome)*  
 ୨♡୧ *Special Power: Resilience with 1 HP and a dream*  
 ୨୧ *Alignment: Chaotic Good with a lawful aesthetic*  
-୨♡୧ *XP Gain: +10 every time someone underestimates me*  
+୨♡୧ *XP Gain: +10 every time someone underestimates me*  |
 
 
 ⋆˚ఎ🐑🌷 <ins>***[MAIN MISSION]***</ins> ໒˚⋆
