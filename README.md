@@ -1,4 +1,4 @@
- (｡•̀ᴗ-)✧🌸 ***Welcome to my Lilypat*** 🐇💻
+ (｡•̀ᴗ-)✧🌸 ***Welcome to my Lilypad*** 🐇💻
  
 
 ⋆˚ఎ 🌼 ໒˚⋆ *Hi, I’m Lily: a cyber-bunny with a glitter grenade. I do cybersecurity, machine learning, cheerleading, and questionable life choices, all while pretending I'm not held together by tea, chaos, and dog hair. Christian-coded, engaged to a biologist. Single-file project lover. *
@@ -28,5 +28,6 @@
 ୨♡୧ *Fluent in Portuguese, English, Spanish, Japanese, German, Sindarin, and Goblinese (don’t test me*)  
 
 
-*A priest once called me a bomb—I said I’m a *bunmb*: half bunny, half blessing, full disruption. (don't ask about my lore you are not prepared to hear what i went throw). Let’s hop into the strange, the secure, and the sparkly. This is my Lilypat. You’re welcome.* 🐰✨
+*A priest once called me a bomb—I said I’m a *bunmb*: half bunny, half blessing, full disruption. (don't ask about my lore you are not prepared to hear what i went throw). Let’s hop into the strange, the secure, and the sparkly. This is my Lilypad. You’re welcome.* 🐰✨
+Learn more about me on my |[site](https://lilypad-git-main-lily-haschen-forneys-projects.vercel.app)
 
