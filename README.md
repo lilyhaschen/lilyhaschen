@@ -7,7 +7,7 @@
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilyhaschen)](https://github.com/anuraghazra/github-readme-stats) |୨♡୧ *Major: Computer Engineering (yes, I know what a transistor is, and no, I won't explain it again)*   |
 | [SoftScan](https://github.com/lilyhaschen/SoftScan):  a cute terminal-based vulnerability scanner  | ୨♡୧ *Side Skills: Freelance model, sewist, and cosplay*  |
 |[BunnyWall](https://github.com/lilyhaschen/bunnywall): A terminal-based behavioral firewall  |  ୨♡୧ *Special Power: Resilience with 1 HP and a dream*  |
-| [PuppyLimitera](https://github.com/lilyhaschen/PuppyLimiter): network tool that helps you monitor, analyze, and limit the bandwidth** (upload/download) of devices on your local network|  ୨୧ *Alignment: Chaotic Good with a lawful aesthetic* |
+| [PuppyLimitera](https://github.com/lilyhaschen/PuppyLimiter): network tool that helps you monitor, analyze, and limit the bandwidth of devices on your local network|  ୨୧ *Alignment: Chaotic Good with a lawful aesthetic* |
 | ..  | ୨♡୧ *XP Gain: +10 every time someone underestimates me* |
 | ..  |   ... |
 
